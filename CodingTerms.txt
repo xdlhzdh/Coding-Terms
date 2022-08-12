@@ -748,7 +748,7 @@ represent 表述，表现
 resolve 解析、决议
 resolution 解析过程
 result set 结果集 (for database)
-retrieve data 检索数据
+retrieve data 检索数据，找回
 return 返回
 return type 返回类型
 return value 返回值
@@ -1090,7 +1090,7 @@ equal 相等 相等
 equality 相等性 相等性
 equality operator equality（等号）运算子 == 等号操作符
 equivalence 等价性、等同性、对等性 等价性
-equivalent 等价、等同、对等 等价
+equivalent 等价、等同、对等、相当
 escape code 转义码 转义码
 evaluate 评估、求值、核定 评估
 event 事件 事件
@@ -2364,7 +2364,7 @@ virus checker病毒检测程序
 virus病毒
 Voiceband音频带宽
 Volatile storage易失性存储
-voltage surge冲击性电压
+Voltage surge 电压脉冲
 
 W
 Wand reader 条形码读入
@@ -2659,7 +2659,7 @@ Wide area network(WAN)广域网
 216.title,n.题目，标题 [ˈtaɪtl]
 217.expression,n.表达式 [ɪkˈsprɛʃən]
 218.through,prep.&,ad.通过，直通 [θru]
-219.toggle,n.&,v.触发器；系紧 [ˈtɑgl]
+219.toggle,n.&,v.触发器；系紧 [ˈtɑgl] 切换
 220.code,n.码，代码，编码 [koʊd]
 221.such,a.&,pron.这样的，如此 [sʌtʃ]
 222.beginning,n.起点，初 [bɪˈɡɪnɪŋ]
@@ -2933,7 +2933,7 @@ Wide area network(WAN)广域网
 490.empty,a.空，零，未占用,,(e,m,p,t,i) [ˈɛmpti]
 491.alphabetical,a.字母(表)的，abc的(ai,er,fe,ba,ti,kou) [ˌælfəˈbɛtɪkəl]
 492.branch,n.分支，支线；v.转换,,(bo,ran,chi) [bræntʃ]
-493.resume,v.重(新)开(始),,(re,s,you,mu) [rɪ'zjum]
+493.resume,v.重(新)开(始),,(re,s,you,mu) [rɪ'zjum] 继续
 494.multiple,a.多次的，复杂的,(mo,u,t,i,po,u) [ˈmʌltəpəl]
 495.monitor,n.监视器，监督程序,(mao,nit,e) [ˈmɑnɪtə(r)]
 496.configuration,n.配置,(kang,fe,i,ge,rua,i,sheng) [kənˌfɪgjəˈreɪʃn]
@@ -3989,7 +3989,7 @@ Wide area network(WAN)广域网
 1546.efficiently,ad.有效地 [ɪˈfɪʃəntlɪ]
 1547.predict,vt.预测，预言 [prɪˈdɪkt]
 1548.anticipate,vt.预先考虑，抢…先 [ænˈtɪsəˌpet]
-1549.bypass,n.旁路 [ˈbaɪˌpæs]
+1549.bypass,n.旁路 [ˈbaɪˌpæs] 绕过
 1550.nature,n.自然，天然 [ˈnetʃɚ]
 1551.natural,a.自然的 [ˈnætʃrəl]
 1552.grant,vt.允许，授权 [grænt]
@@ -4106,7 +4106,7 @@ Wide area network(WAN)广域网
 1663.ascending,a.增长的，向上的 [əˈsɛndɪŋ]
 1664.augment,v.增加，添加，扩充 [ɔɡˈmɛnt]
 1665.increment,n.增量，加１，递增 [ˈɪnkrəmənt, ˈɪŋ-]
-1666.gain,n.增益(系数) [ɡen]
+1666.gain,n.增益(系数) [ɡen] 获取
 1667.stream,n.流 [strim]
 1668.obsolete,a.作废的，过时的 [ˌɑbsəˈlit]
 1669.accommodate,v.调节，适应,,老男孩 [əˈkɑmədeɪt]
@@ -4145,7 +4145,7 @@ Sink 接收event
 Shuffle 洗牌
 Wrapper/Facade/Decorator 装饰器
 Agent/Proxy 代理
-Coordinator/Hormanizer/Orchestrator 协调器
+Coordinator/Hormanizer/Orchestrator/Scheduler 协调器，调度器
 Model 模型
 Converter 转换器
 Monitor/Observer/Subscriber/Listener 监视器,订阅者
@@ -4204,3 +4204,33 @@ System Tray 系统托盘
 Universal | Common 统一，通用
 Widget 小部件
 Workspaces 工作区
+Debounce 祛抖动
+Invert 倒转 Reverse
+Impulse 脉冲
+Accumulator 累加器
+Arrange 安排
+Apparent 显然的
+Calibration 刻度，校准
+Degree 程度
+Descriptor 描述符
+Discrete 离散的
+Divide 除 Divisor 除数
+Division 分开
+Fraction 小数部分
+Mantissa 尾数，参考Fraction
+Integer Potion 整数部分
+Obtain 获取
+Harmonic 谐波
+Magnify 放大
+Magnitude 宏伟，巨大
+Subtraction 减
+Multiplication 乘
+Multiplex 复用
+Neutral 中性的
+Quarter 四分之一
+Harf 二分之一
+React 反应
+Scale Factor 比例因子
+Scaling 缩放
+Toggle 切换
+Tick 打勾，记号，滴答声
