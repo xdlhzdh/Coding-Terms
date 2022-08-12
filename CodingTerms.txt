@@ -120,7 +120,7 @@ appearance 外观
 append 附加
 architecture 架构、体系结构
 archive file 归档文件、存档文件
-argument引数(传给函式的值)。参见parameter
+argument 参数，形参 | 参见parameter 实参
 array 数组
 arrow operator 箭头操作符
 ASP(Active Server Page)活动服务器页面
@@ -170,7 +170,7 @@ bookkeeping 簿记
 boolean 布林值(真假值，true或false)
 border 边框
 bounds checking 边界检查
-boxing 装箱、装箱转换
+boxing 装箱、装箱转换 autobox 自动装箱
 brace (curly brace) 大括号、花括号
 bracket (square brakcet) 中括号、方括号
 
@@ -428,7 +428,7 @@ flash memory 闪存
 flush 刷新
 font 字体
 foreign key (FK) 外键(FK) (for database)
-form 窗体
+form 窗体，表单
 formal parameter 形参
 forward declaration 前置声明
 forward-only 只向前的
@@ -569,7 +569,7 @@ maintain 维护
 managed code 受控代码、托管代码
 Managed Extensions 受控扩充件、托管扩展
 managed object 受控对象、托管对象
-mangled name 解构后的符号
+mangled name 解构后的符号，打散的符号
 demanagled name 去解构的符号
 manifest 清单
 manipulator 操纵器(iostream预先定义的一种东西)
@@ -758,7 +758,7 @@ robust 健壮
 robustness 健壮性
 roll back 回滚 (for database)
 roll forward 前滚 (for database)
-routine 例程
+routine 例程，程序
 row 行 (for database)
 row lock 行锁 (for database)
 rowset 行集 (for database)
@@ -828,7 +828,7 @@ subscrīpt operator 下标操作符
 subset 子集
 subtype 子类型
 support 支持
-suspend 挂起
+suspend 挂起，暂停
 symbol 记号
 syntax 语法
 system databases 系统数据库 (for database)
@@ -1006,7 +1006,7 @@ client－server 主从架构 客户/服务器
 clipboard 剪贴簿 剪贴板
 clone 复制 克隆
 collection 群集 集合
-combo box 复合方块、复合框 组合框
+combo box 复合方块、复合框 组合框 下拉框
 command line 命令列 命令行
 (系统文字模式下的整行执行命令)
 communication 通讯 通讯
@@ -2724,7 +2724,7 @@ Wide area network(WAN)广域网
 281.application,n.应用 [ˌæplɪˈkeʃən]
 282.confirmation,n.认可 [ˌkɑnfərˈmeɪʃn]
 283.whether,conj.无论，不管 [ˈhwɛðɚ, ˈwɛð-]
-284.hold,v.保持 [hoʊld]
+284.hold,v.保持，握住 [hoʊld]
 285.click,n.“卡搭”声，插销,,k,l,ik] [klɪk]
 286.write,v.写，存入 [raɪt]
 287.byte,n.(二进制的)字节 [baɪt]
@@ -2921,7 +2921,7 @@ Wide area network(WAN)广域网
 478.present,a.&,v.现行的；提供,,(p,rua,i,zen,t) [ˈprɛznt]
 479.interpreter,n.解释程序，翻译机,(in,te,p,te) [ɪnˈtɜrprɪtə(r)]
 480.advance,v.&,n.进步，提高；进展,(e,de,wai,en,s) [ədˈvæns]
-481.forward,a.正向的,(fao,wei,de,) [ˈfɔrwərd]
+481.forward,a.正向的,(fao,wei,de,) [ˈfɔrwərd] 向前
 482.fast,a.&,ad.快速的,,(fa,s,t) [fæst]
 483.special,a.专用的，特殊的,,(si,bai,shou) [ˈspɛʃəl]
 484.slash,n.斜线,(,s,i,la,i,s,hi) [slæʃ]
@@ -3258,7 +3258,7 @@ Wide area network(WAN)广域网
 815.hyphen,n.连字符，短线 [ˈhaɪfən]
 816.serial,a.串行的，串联的 [ˈsɪriəl]
 817.loading,n.装入，加载，存放 [ˈloʊdɪŋ]
-818.retain,vt.保持，维持 [rɪˈten]
+818.retain,vt.保持，维持 [rɪˈten] maintain
 819.setup,n.安排，准备，配置 [ˈsɛtˌʌp]
 820.freeze,v.冻结，结冰 [friz]
 821.intend,vt.打算，设计 [ɪnˈtɛnd]
@@ -3402,7 +3402,7 @@ Wide area network(WAN)广域网
 959.cache,n.高速缓存 [kæʃ]
 960.bell,n.铃，钟 [bɛl]
 961.play,v.玩，奏，放音，放象 [pleɪ]
-962.quickly,a.快，迅速地 [ˈkwɪklɪ]
+962.quickly,a.快，迅速地 [ˈkwɪklɪ] rapidly
 963.fastback,n.快速返回 ['fɑstbæk]
 964.answer,n.&,v.响应，回答；答复 [ˈænsə(r)]
 965.represent,v.表示，表现，代表 [ˌrɛprɪˈzɛnt]
@@ -3697,7 +3697,7 @@ Wide area network(WAN)广域网
 1254.subroutine,n.子程序 [ˈsʌbruˌtin]
 1255.bracketed,a.加括号的 ['brækətɪd]
 1256.manually,ad.用手，手动地 [ˈmænjʊəlɪ]
-1257.preset,vt.预置 [priˈsɛt]
+1257.preset,vt.预置 [priˈsɛt] 预设
 1258.autoindex,n.自动变址(数) [ɔ'tɔɪndeks]
 1259.restrict,vt.约束，限制 [rɪˈstrɪkt]
 1260.performance,n.性能，实绩 [pərˈfɔrməns]
@@ -3723,7 +3723,7 @@ Wide area network(WAN)广域网
 1280.restriction,n.限制，约束，节流 [rɪˈstrɪkʃən]
 1281.height,n.高度 [haɪt]
 1282.remainder,n.余数，余项，剩余 [rɪˈmendɚ]
-1283.traverse,v.横渡，横过，横断 [trəˈvɜrs]
+1283.traverse,v.横渡，横过，横断 [trəˈvɜrs] 遍历
 1284.organization,n.结构，机构，公司 [ˌɔrgənəˈzeɪʃn]
 1285.resulting,a.结果的，合成的 [rɪ'zʌltɪŋ]
 1286.solution,n.解，解法，解答 [səˈluʃən]
@@ -3859,7 +3859,7 @@ Wide area network(WAN)广域网
 1416.capture,vt.俘获，捕捉 [ˈkæptʃɚ]
 1417.father,n.父，上层(树节点的) [ˈfɑðɚ]
 1418.reinstate,vt.复原，恢复 [ˌriɪnˈstet]
-1419.tutorial,a.指导的 [tuˈtɔriəl]
+1419.tutorial,a.指导的 [tuˈtɔriəl] 教程
 1420.nicety,n.细节，精细 [ˈnaɪsɪti]
 1421.roll,n.&,v.案卷；卷动，滚动 [roʊl]
 1422.exponent,n.指数，阶，幂 [ɪkˈspoʊnənt]
@@ -4149,6 +4149,58 @@ Coordinator/Hormanizer/Orchestrator 协调器
 Model 模型
 Converter 转换器
 Monitor/Observer/Subscriber/Listener 监视器,订阅者
-Publisher/Dispatcher 分发者，派发者
+Publisher/Dispatcher/Distributer 分发者，派发者
 Normalize 归一化
 Plan/Program 规划
+Kit/Suite/Bundle 套件，工具包
+Arity/Arguments Number 
+Artifact 物件，工件，物品，神器
+Bitrate 码率
+Bounce 跳回，退回
+Revert 还原 Restore
+Rollback 回滚
+Back and Forth 来回 Round Trip
+Up and Down 起伏
+Rag 毛刺
+Unstable  不稳定
+Unsteady 站不稳，颤动
+Shake 摇动
+Swing 摇摆
+Alternative 替补 Alternate
+Ceil  天花板，向上取整
+Ground 地板，向下取整
+Slide 壁板
+Repeat 重复地
+Grasp 抓住
+Hold 握住，保持
+Build－in 内建、内置
+Flame Graph 火焰图
+Checkbox 复选框
+Radio 单选框
+Collaborate 合作 Cooperation
+Coordination 协同
+Community 社区
+Dismount 拆卸，拆解，拆除 Decollate Dismantle Disassemble
+Decoupling 解耦
+Escape 逃脱
+Frozen 冻结，锁定
+Lag 延迟
+Literal 字面量
+Localization 本地化
+Moderate 审核
+Monomorphism 单态
+PickList 选择列表
+Provision 预配
+Commission 配置
+Radian 弧度
+Resolution 正式决定，分辨率
+Snip 截屏图
+Shortcut Key | Hot Key 快捷键
+Star rating 星级评分
+Interpolation 插值
+Stuttering 口吃，断断续续
+Top-up 充值
+System Tray 系统托盘
+Universal | Common 统一，通用
+Widget 小部件
+Workspaces 工作区
