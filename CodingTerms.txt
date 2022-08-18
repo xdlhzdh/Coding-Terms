@@ -4234,3 +4234,7 @@ Scale Factor 比例因子
 Scaling 缩放
 Toggle 切换
 Tick 打勾，记号，滴答声
+Decay 衰减，退化
+Intersperse 点缀，分散插入
+Fold 折叠
+Unfold 展开
