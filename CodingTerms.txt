@@ -4238,3 +4238,4 @@ Decay 衰减，退化
 Intersperse 点缀，分散插入
 Fold 折叠
 Unfold 展开
+Concat 合并，字符串合并
