@@ -3414,7 +3414,7 @@ Wide area network(WAN)广域网
 971.hercules,n.大力神，大力士
 972.reduce,v.减少，降低，简化 [rɪˈdus]
 973.publisher,n.出版者，发行人 [ˈpʌblɪʃɚ]
-974.trim,n.区标，微调 [trɪm]
+974.trim,n.区标，微调，修剪，裁剪[trɪm]
 975.substitute,v.代替，替换，代入 [ˈsʌbstɪtut]
 976.disabled,a.禁止的，报废的 [dɪsˈebəld]
 977.recent,a.近来的 [ˈrisənt]
@@ -4239,4 +4239,5 @@ Intersperse 点缀，分散插入
 Fold 折叠
 Unfold 展开
 Concat 合并，字符串合并
-Sparse 稀梳的
+Sparse 稀梳的、
+Cut 剪切
