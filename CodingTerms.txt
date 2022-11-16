@@ -3781,7 +3781,7 @@ Wide area network(WAN)广域网
 1338.worry,v.&,n.(使)烦恼 [ˈwɜri]
 1339.somewhat,pron.&,ad.稍微，有点 [ˈsʌmwʌt]
 1340.quiet,a.&,n.静态，静止的 [ˈkwaɪɪt]
-1341.purge,v.&,n.清除 [pɜrdʒ]
+1341.purge,v.&,n.清除, 清理，肃清[pɜrdʒ]
 1342.mod,a.&,n.时髦的 [mɑd]
 1343.numeral,n.&,n.数字的，数码 [ˈnumərəl]
 1344.whichever,a.&,pron.无论哪个 [hwɪtʃˈɛvɚ, wɪtʃ-]
