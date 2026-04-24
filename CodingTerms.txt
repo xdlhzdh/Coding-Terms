@@ -342,7 +342,7 @@ destructor(dtor)析构函数、析构器
 device 设备
 DHTML (dynamic HyperText Markup Language)动态超文本标记语言
 dialog 对话框
-digest 摘要
+digest 摘要/提炼/消化
 digital 数字的
 DIME (Direct Internet Message Encapsulation)直接Internet消息封装
 directive (编译)指示符
